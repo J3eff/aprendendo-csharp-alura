@@ -10,7 +10,7 @@ namespace _2_CriandoVariaveis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 2 - Criando Variaveiss");
+            Console.WriteLine("Executando projeto 2 - Criando Variaveis");
 
             int idade = 32;
             Console.WriteLine(idade);
