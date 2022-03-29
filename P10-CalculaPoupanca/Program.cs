@@ -22,7 +22,7 @@ namespace P10_CalculaPoupanca
                 contadorMes++;
             }
 
-            //// 0.36% = 0.0036
+            //// 0.36% = 0.0036.
             //valorInvestido = valorInvestido + valorInvestido * 0.0036;
             //Console.WriteLine("Após 1 mês, você terá R$" + valorInvestido);
 
